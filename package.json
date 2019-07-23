@@ -18,7 +18,6 @@
   ],
   "files": [
     "rollup.config.js",
-    "dist/**/*",
     "src/**/*"
   ],
   "author": "",
