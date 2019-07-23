@@ -1,4 +1,11 @@
 rollup-plugin-node-builtins
+
+===
+**20190723**
+This fork replaces `browserify-fs` with `bro-fs` to deal with two security vulnerabilities:
+1. [Regular Expression Denial of Service](https://npmjs.com/advisories/31), and
+2. [Memory Exposure](https://npmjs.com/advisories/596)
+
 ===
 
 ```
