@@ -18,7 +18,8 @@
   ],
   "files": [
     "rollup.config.js",
-    "src/**/*"
+    "src/**/*",
+    "dist/**/*"
   ],
   "author": "",
   "license": "ISC",
